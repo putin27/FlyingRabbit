@@ -1,0 +1,474 @@
+[
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\e07_bat.png",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\drawable\\e07_bat.png"
+    },
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\w12_chargegun_s.png",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\drawable\\w12_chargegun_s.png"
+    },
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\w08_chargegun_s.png",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\drawable\\w08_chargegun_s.png"
+    },
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b02_blade3.png",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\drawable\\b02_blade3.png"
+    },
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\e02_dragon.png",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\drawable\\e02_dragon.png"
+    },
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\e05_bbird.png",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\drawable\\e05_bbird.png"
+    },
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\w09_handgun.png",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\drawable\\w09_handgun.png"
+    },
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg1_1_0.jpg",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\drawable\\bg1_1_0.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\w08_chargegun.png",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\drawable\\w08_chargegun.png"
+    },
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\e06_egg_i.png",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\drawable\\e06_egg_i.png"
+    },
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\player02_i.png",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\drawable\\player02_i.png"
+    },
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog.png",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\drawable\\dialog.png"
+    },
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\e22.png",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\drawable\\e22.png"
+    },
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\strat_d.png",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\drawable\\strat_d.png"
+    },
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\stage5.png",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\drawable\\stage5.png"
+    },
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\w09_handgun_s.png",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\drawable\\w09_handgun_s.png"
+    },
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg00.jpg",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\drawable\\bg00.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b02_blade.png",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\drawable\\b02_blade.png"
+    },
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\item.png",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\drawable\\item.png"
+    },
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\w11_blade.png",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\drawable\\w11_blade.png"
+    },
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\w03_blade.png",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\drawable\\w03_blade.png"
+    },
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg2t.png",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\drawable\\bg2t.png"
+    },
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\w04_chargegun_s.png",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\drawable\\w04_chargegun_s.png"
+    },
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_anvil.jpg",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\drawable\\bg_anvil.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bat.png",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\drawable\\bat.png"
+    },
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\e05_bbird_i.png",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\drawable\\e05_bbird_i.png"
+    },
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b01_gun01.png",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\drawable\\b01_gun01.png"
+    },
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\w12_chargegun.png",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\drawable\\w12_chargegun.png"
+    },
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b03_blade2.png",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\drawable\\b03_blade2.png"
+    },
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\stage4_d.png",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\drawable\\stage4_d.png"
+    },
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\w11_blade_s.png",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\drawable\\w11_blade_s.png"
+    },
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\thunder1.png",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\drawable\\thunder1.png"
+    },
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\loading.png",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\drawable\\loading.png"
+    },
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\w02_assaultgun.png",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\drawable\\w02_assaultgun.png"
+    },
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\w05_handgun.png",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\drawable\\w05_handgun.png"
+    },
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b03_blade.png",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\drawable\\b03_blade.png"
+    },
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\item_d.png",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\drawable\\item_d.png"
+    },
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b07_sp1boom_1.png",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\drawable\\b07_sp1boom_1.png"
+    },
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\player_state.png",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\drawable\\player_state.png"
+    },
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\coin.png",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\drawable\\coin.png"
+    },
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\penguin.png",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\drawable\\penguin.png"
+    },
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b06_sp1boom.png",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\drawable\\b06_sp1boom.png"
+    },
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\e08_sbat_i.png",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\drawable\\e08_sbat_i.png"
+    },
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b03_charge01.png",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\drawable\\b03_charge01.png"
+    },
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gear.png",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\drawable\\gear.png"
+    },
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_make_weapon.jpg",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\drawable\\bg_make_weapon.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\w00_lock.png",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\drawable\\w00_lock.png"
+    },
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\w02_assaultgun_s.png",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\drawable\\w02_assaultgun_s.png"
+    },
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\w03_blade_s.png",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\drawable\\w03_blade_s.png"
+    },
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg.png",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\drawable\\bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b03_blade_o.png",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\drawable\\b03_blade_o.png"
+    },
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\stage1_d.png",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\drawable\\stage1_d.png"
+    },
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\stage4.png",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\drawable\\stage4.png"
+    },
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sp2_a.png",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\drawable\\sp2_a.png"
+    },
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button.png",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\drawable\\button.png"
+    },
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b02_blade4.png",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\drawable\\b02_blade4.png"
+    },
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\strat.png",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\drawable\\strat.png"
+    },
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b08_sp2beam.png",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\drawable\\b08_sp2beam.png"
+    },
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\e02_dragon_i.png",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\drawable\\e02_dragon_i.png"
+    },
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\e01_chiken.png",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\drawable\\e01_chiken.png"
+    },
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\strat_multi.png",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\drawable\\strat_multi.png"
+    },
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_small.png",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\drawable\\logo_small.png"
+    },
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\c_dialog.png",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\drawable\\c_dialog.png"
+    },
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\stage5_d.png",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\drawable\\stage5_d.png"
+    },
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fire1.png",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\drawable\\fire1.png"
+    },
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sp1_b.png",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\drawable\\sp1_b.png"
+    },
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\stage3.png",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\drawable\\stage3.png"
+    },
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg0.jpg",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\drawable\\bg0.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sgear.png",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\drawable\\sgear.png"
+    },
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sp1_c.png",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\drawable\\sp1_c.png"
+    },
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\w10_assaultgun.png",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\drawable\\w10_assaultgun.png"
+    },
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sp1_a.png",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\drawable\\sp1_a.png"
+    },
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\player01_i.png",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\drawable\\player01_i.png"
+    },
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\stage1.png",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\drawable\\stage1.png"
+    },
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\e01_chiken_i.png",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\drawable\\e01_chiken_i.png"
+    },
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mark.png",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\drawable\\mark.png"
+    },
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\make_item.png",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\drawable\\make_item.png"
+    },
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b04_charge02.png",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\drawable\\b04_charge02.png"
+    },
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher.png",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\stage3_d.png",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\drawable\\stage3_d.png"
+    },
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sp2_b.png",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\drawable\\sp2_b.png"
+    },
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\e04_bee_i.png",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\drawable\\e04_bee_i.png"
+    },
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lock2.png",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\drawable\\lock2.png"
+    },
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lock.png",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\drawable\\lock.png"
+    },
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\back.png",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\drawable\\back.png"
+    },
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\strat_multi_d.png",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\drawable\\strat_multi_d.png"
+    },
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg2.png",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\drawable\\bg2.png"
+    },
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg1_1_1.jpg",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\drawable\\bg1_1_1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\make_item_d.png",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\drawable\\make_item_d.png"
+    },
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\w01_handgun_s.png",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\drawable\\w01_handgun_s.png"
+    },
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\w07_blade_s.png",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\drawable\\w07_blade_s.png"
+    },
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\e03_crowraven_i.png",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\drawable\\e03_crowraven_i.png"
+    },
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ip_config.png",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\drawable\\ip_config.png"
+    },
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\w01_handgun.png",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\drawable\\w01_handgun.png"
+    },
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\boom.png",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\drawable\\boom.png"
+    },
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\e07_bat_i.png",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\drawable\\e07_bat_i.png"
+    },
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\w10_assaultgun_s.png",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\drawable\\w10_assaultgun_s.png"
+    },
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\w05_handgun_s.png",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\drawable\\w05_handgun_s.png"
+    },
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\stage2.png",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\drawable\\stage2.png"
+    },
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sp2_c.png",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\drawable\\sp2_c.png"
+    },
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_weapon.png",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\drawable\\bg_weapon.png"
+    },
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\stage2_d.png",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\drawable\\stage2_d.png"
+    },
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\e03_crowraven.png",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\drawable\\e03_crowraven.png"
+    },
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\player02.png",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\drawable\\player02.png"
+    },
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\e22_i.png",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\drawable\\e22_i.png"
+    },
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\e04_bee.png",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\drawable\\e04_bee.png"
+    },
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\w06_assaultgun_s.png",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\drawable\\w06_assaultgun_s.png"
+    },
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\e08_sbat.png",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\drawable\\e08_sbat.png"
+    },
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\w04_chargegun.png",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\drawable\\w04_chargegun.png"
+    },
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\e06_egg.png",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\drawable\\e06_egg.png"
+    },
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\w06_assaultgun.png",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\drawable\\w06_assaultgun.png"
+    },
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg03.jpg",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\drawable\\bg03.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\w07_blade.png",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\drawable\\w07_blade.png"
+    },
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\light_004.png",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\drawable\\light_004.png"
+    },
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b09_boom2.png",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\drawable\\b09_boom2.png"
+    },
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b05_boom1.png",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\drawable\\b05_boom1.png"
+    },
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\player01.png",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\drawable\\player01.png"
+    },
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\boom2.png",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\drawable\\boom2.png"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\layout\\grid_equipment.xml",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\layout\\grid_equipment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog.xml",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\layout\\dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\layout\\make_equipment.xml",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\layout\\make_equipment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\layout\\weapon_detail_dialog.xml",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\layout\\weapon_detail_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\layout\\equipment.xml",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\layout\\equipment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\build\\intermediates\\res\\merged\\debug\\layout\\get_equipment.xml",
+        "source": "C:\\Users\\Amber\\AndroidStudioProjects\\X05_FINAL12011\\app\\src\\main\\res\\layout\\get_equipment.xml"
+    }
+]
